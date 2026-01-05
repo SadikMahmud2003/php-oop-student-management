@@ -1,0 +1,110 @@
+/* General Page Style */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f8;
+    padding: 20px;
+}
+
+/* Headings */
+
+h2 {
+    
+    color: #333;
+    margin-bottom: 15px; 
+}
+
+#header1 {
+    text-align: center;
+    width: 80%;
+    color: #333;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Table Styling */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    background-color: #fff;
+    border: 2px solid #fff;
+}
+
+table td {
+    word-break: break-word;
+    white-space: normal;
+    vertical-align: middle;
+}
+
+
+table th {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+    background-color: #007bff;
+    text-align: center;
+    color: white;
+}
+#cr1 {
+   text-align: center; 
+}
+
+#ac1 {
+   text-align: center; 
+}
+#ac2 {
+   text-align: center;
+   background-color: #007bff; 
+   color: white;
+}
+#ac3 {
+   text-align: center; 
+   background-color: red;
+   color: white;
+}
+
+/* Buttons */
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#add1 {
+    text-align: center;
+    width: 70%;
+    color: white;
+}
+
+/* Form Inputs */
+input {
+    width: 300px;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Action Links */
+.action-links a {
+    margin-right: 8px;
+}
+
+
+
+
